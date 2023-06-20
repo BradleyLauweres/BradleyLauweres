@@ -4,8 +4,8 @@
 <br/>
 <br/>
 
-Hi, You're average Nerd here 🤓. I'm currently a C#/.Net Developer  
-Chasing the dream to become a Game Dev 🎮.
+<p align="left">Hi, You're average Nerd here 🤓. I'm currently a C#/.Net Developer  
+Chasing the dream to become a Game Dev 🎮.</p>
 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/Qkbm4jGMam7PfdWzHM/giphy.gif" />
 
