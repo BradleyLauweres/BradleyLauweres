@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Bradley Lauweres</h1>
 <h3 align="center">A passionate Software Developer from Belgium</h3>
 
-
+<br/>
+<br/>
 
 Hi, You're average Nerd here 🤓. I'm currently a C#/.Net Developer  
 Chasing the dream to become a Game Dev 🎮.
