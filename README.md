@@ -7,8 +7,6 @@
 <p align="left">Hi, You're average Nerd here 🤓. I'm currently a C#/.Net Developer  <br/>
 Chasing the dream to become a Game Dev 🎮.</p>
 
-<img align="right" alt="coding" src="https://media.giphy.com/media/Qkbm4jGMam7PfdWzHM/giphy.gif" />
-
 ### ✌ Connect Me
 <p align="left">
 <a href="https://www.linkedin.com/in/bradley-lauweres-b00921239/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="50" width="50" /></a>
