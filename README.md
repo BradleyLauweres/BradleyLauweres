@@ -11,7 +11,7 @@ Chasing the dream to become a Game Dev 🎮.</p>
 <h1 align="center">✌ Connect Me</h1> 
 <p align="center">
 <a href="https://www.linkedin.com/in/bradley-lauweres-b00921239/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="50" width="50" style="padding-right:10px;" /></a>
-<a href="https://www.instagram.com/katqinxd/r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplified_learner" height="50" width="50" style="padding-right:10px;" /></a>
+<a href="https://www.instagram.com/katqinxd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplified_learner" height="50" width="50" style="padding-right:10px;" /></a>
 <a href="https://www.facebook.com/bradley.lauweres.9/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-plain.svg" height="50" width="50" style="padding-right:10px;" /></a>
 </p>
 
