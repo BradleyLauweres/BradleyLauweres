@@ -6,7 +6,6 @@ Chasing the dream to become a Game Dev 🎮.
 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/Qkbm4jGMam7PfdWzHM/giphy.gif" />
 
----
 ### ✌ Connect Me
 <p align="left">
 <a href="https://www.linkedin.com/in/bradley-lauweres-b00921239/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="50" width="50" /></a>
