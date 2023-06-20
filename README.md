@@ -3,6 +3,7 @@
 **`solutions come at the weirdest places`**
 
 Hi, You're average Nerd here 🤓. I'm currently a C#/.Net Developer  
+Chasing the dream to become a Game Dev 🎮.
 
 <!--
 **BradleyLauweres/BradleyLauweres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
