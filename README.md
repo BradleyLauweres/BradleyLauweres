@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Developer from Belgium</h3>
 
 <br/>
-<img align="center" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" />
+<img align="center" height="180" width="240" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" />
 <br/>
 
 <p align="center">Hi, You're average Nerd here 🤓. I'm currently a C#/.Net Developer  <br/>
