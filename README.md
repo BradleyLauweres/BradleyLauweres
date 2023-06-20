@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Bradley Lauweres</h1>
 <h3 align="center">A passionate Software Developer from Belgium</h3>
 
+
+
 Hi, You're average Nerd here 🤓. I'm currently a C#/.Net Developer  
 Chasing the dream to become a Game Dev 🎮.
-
-
 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/Qkbm4jGMam7PfdWzHM/giphy.gif" />
 
