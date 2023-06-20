@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Developer from Belgium</h3>
 
 <br/>
-<center><img align="center" height="180" width="240" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" /></center>
+<div align="center"><img height="180" width="240" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" /></div>
 <br/>
 
 <p align="center">Hi, You're average Nerd here 🤓. I'm currently a C#/.Net Developer  <br/>
@@ -10,9 +10,9 @@ Chasing the dream to become a Game Dev 🎮.</p>
 
 <h1 align="center">✌ Connect Me</h1> 
 <p align="center">
-<a href="https://www.linkedin.com/in/bradley-lauweres-b00921239/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="50" width="50" /></a>
-<a href="https://www.instagram.com/katqinxd/r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplified_learner" height="50" width="50" /></a>
-<a href="https://www.facebook.com/bradley.lauweres.9/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-plain.svg" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/bradley-lauweres-b00921239/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="50" width="50" style="padding-right:10px;" /></a>
+<a href="https://www.instagram.com/katqinxd/r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplified_learner" height="50" width="50" style="padding-right:10px;" /></a>
+<a href="https://www.facebook.com/bradley.lauweres.9/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-plain.svg" height="50" width="50" style="padding-right:10px;" /></a>
 </p>
 
 <h1 align="center">🛠 Languages & Tools</h1> 
